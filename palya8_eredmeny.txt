@@ -1,0 +1,400 @@
+Globális maximum megtalálva: 34 lépéssel.
+Átlag lépésszám : 34.00
+Globális maximum megtalálva: 105 lépéssel.
+Átlag lépésszám : 69.50
+Globális maximum megtalálva: 18 lépéssel.
+Átlag lépésszám : 52.33
+Globális maximum megtalálva: 36 lépéssel.
+Átlag lépésszám : 48.25
+Globális maximum megtalálva: 79 lépéssel.
+Átlag lépésszám : 54.40
+Globális maximum megtalálva: 71 lépéssel.
+Átlag lépésszám : 57.17
+Globális maximum megtalálva: 26 lépéssel.
+Átlag lépésszám : 52.71
+Globális maximum megtalálva: 63 lépéssel.
+Átlag lépésszám : 54.00
+Globális maximum megtalálva: 44 lépéssel.
+Átlag lépésszám : 52.89
+Globális maximum megtalálva: 19 lépéssel.
+Átlag lépésszám : 49.50
+Globális maximum megtalálva: 63 lépéssel.
+Átlag lépésszám : 50.73
+Globális maximum megtalálva: 57 lépéssel.
+Átlag lépésszám : 51.25
+Globális maximum megtalálva: 193 lépéssel.
+Átlag lépésszám : 62.15
+Globális maximum megtalálva: 30 lépéssel.
+Átlag lépésszám : 59.86
+Globális maximum megtalálva: 5 lépéssel.
+Átlag lépésszám : 56.20
+Globális maximum megtalálva: 153 lépéssel.
+Átlag lépésszám : 62.25
+Globális maximum megtalálva: 9 lépéssel.
+Átlag lépésszám : 59.12
+Globális maximum megtalálva: 104 lépéssel.
+Átlag lépésszám : 61.61
+Globális maximum megtalálva: 93 lépéssel.
+Átlag lépésszám : 63.26
+Globális maximum megtalálva: 3 lépéssel.
+Átlag lépésszám : 60.25
+Globális maximum megtalálva: 27 lépéssel.
+Átlag lépésszám : 58.67
+Globális maximum megtalálva: 158 lépéssel.
+Átlag lépésszám : 63.18
+Globális maximum megtalálva: 49 lépéssel.
+Átlag lépésszám : 62.57
+Globális maximum megtalálva: 41 lépéssel.
+Átlag lépésszám : 61.67
+Globális maximum megtalálva: 32 lépéssel.
+Átlag lépésszám : 60.48
+Globális maximum megtalálva: 66 lépéssel.
+Átlag lépésszám : 60.69
+Globális maximum megtalálva: 24 lépéssel.
+Átlag lépésszám : 59.33
+Globális maximum megtalálva: 8 lépéssel.
+Átlag lépésszám : 57.50
+Globális maximum megtalálva: 140 lépéssel.
+Átlag lépésszám : 60.34
+Globális maximum megtalálva: 102 lépéssel.
+Átlag lépésszám : 61.73
+Globális maximum megtalálva: 20 lépéssel.
+Átlag lépésszám : 60.39
+Globális maximum megtalálva: 25 lépéssel.
+Átlag lépésszám : 59.28
+Globális maximum megtalálva: 61 lépéssel.
+Átlag lépésszám : 59.33
+Globális maximum megtalálva: 93 lépéssel.
+Átlag lépésszám : 60.32
+Globális maximum megtalálva: 151 lépéssel.
+Átlag lépésszám : 62.91
+Globális maximum megtalálva: 11 lépéssel.
+Átlag lépésszám : 61.47
+Globális maximum megtalálva: 7 lépéssel.
+Átlag lépésszám : 60.00
+Globális maximum megtalálva: 207 lépéssel.
+Átlag lépésszám : 63.87
+Globális maximum megtalálva: 123 lépéssel.
+Átlag lépésszám : 65.38
+Globális maximum megtalálva: 178 lépéssel.
+Átlag lépésszám : 68.20
+Globális maximum megtalálva: 39 lépéssel.
+Átlag lépésszám : 67.49
+Globális maximum megtalálva: 1 lépéssel.
+Átlag lépésszám : 65.90
+Globális maximum megtalálva: 99 lépéssel.
+Átlag lépésszám : 66.67
+Globális maximum megtalálva: 7 lépéssel.
+Átlag lépésszám : 65.32
+Globális maximum megtalálva: 116 lépéssel.
+Átlag lépésszám : 66.44
+Globális maximum megtalálva: 26 lépéssel.
+Átlag lépésszám : 65.57
+Globális maximum megtalálva: 45 lépéssel.
+Átlag lépésszám : 65.13
+Globális maximum megtalálva: 135 lépéssel.
+Átlag lépésszám : 66.58
+Globális maximum megtalálva: 60 lépéssel.
+Átlag lépésszám : 66.45
+Globális maximum megtalálva: 42 lépéssel.
+Átlag lépésszám : 65.96
+Globális maximum megtalálva: 55 lépéssel.
+Átlag lépésszám : 65.75
+Globális maximum megtalálva: 46 lépéssel.
+Átlag lépésszám : 65.37
+Globális maximum megtalálva: 91 lépéssel.
+Átlag lépésszám : 65.85
+Globális maximum megtalálva: 59 lépéssel.
+Átlag lépésszám : 65.72
+Globális maximum megtalálva: 7 lépéssel.
+Átlag lépésszám : 64.65
+Globális maximum megtalálva: 70 lépéssel.
+Átlag lépésszám : 64.75
+Globális maximum megtalálva: 275 lépéssel.
+Átlag lépésszám : 68.44
+Globális maximum megtalálva: 15 lépéssel.
+Átlag lépésszám : 67.52
+Globális maximum megtalálva: 6 lépéssel.
+Átlag lépésszám : 66.47
+Globális maximum megtalálva: 12 lépéssel.
+Átlag lépésszám : 65.57
+Globális maximum megtalálva: 16 lépéssel.
+Átlag lépésszám : 64.75
+Globális maximum megtalálva: 50 lépéssel.
+Átlag lépésszám : 64.52
+Globális maximum megtalálva: 30 lépéssel.
+Átlag lépésszám : 63.97
+Globális maximum megtalálva: 126 lépéssel.
+Átlag lépésszám : 64.94
+Globális maximum megtalálva: 214 lépéssel.
+Átlag lépésszám : 67.23
+Globális maximum megtalálva: 71 lépéssel.
+Átlag lépésszám : 67.29
+Globális maximum megtalálva: 113 lépéssel.
+Átlag lépésszám : 67.97
+Globális maximum megtalálva: 151 lépéssel.
+Átlag lépésszám : 69.19
+Globális maximum megtalálva: 186 lépéssel.
+Átlag lépésszám : 70.88
+Globális maximum megtalálva: 4 lépéssel.
+Átlag lépésszám : 69.93
+Globális maximum megtalálva: 51 lépéssel.
+Átlag lépésszám : 69.66
+Globális maximum megtalálva: 270 lépéssel.
+Átlag lépésszám : 72.44
+Globális maximum megtalálva: 67 lépéssel.
+Átlag lépésszám : 72.37
+Globális maximum megtalálva: 136 lépéssel.
+Átlag lépésszám : 73.23
+Globális maximum megtalálva: 158 lépéssel.
+Átlag lépésszám : 74.36
+Globális maximum megtalálva: 82 lépéssel.
+Átlag lépésszám : 74.46
+Globális maximum megtalálva: 79 lépéssel.
+Átlag lépésszám : 74.52
+Globális maximum megtalálva: 9 lépéssel.
+Átlag lépésszám : 73.68
+Globális maximum megtalálva: 3 lépéssel.
+Átlag lépésszám : 72.78
+Globális maximum megtalálva: 48 lépéssel.
+Átlag lépésszám : 72.47
+Globális maximum megtalálva: 73 lépéssel.
+Átlag lépésszám : 72.48
+Globális maximum megtalálva: 22 lépéssel.
+Átlag lépésszám : 71.87
+Globális maximum megtalálva: 169 lépéssel.
+Átlag lépésszám : 73.04
+Globális maximum megtalálva: 59 lépéssel.
+Átlag lépésszám : 72.87
+Globális maximum megtalálva: 73 lépéssel.
+Átlag lépésszám : 72.87
+Globális maximum megtalálva: 209 lépéssel.
+Átlag lépésszám : 74.45
+Globális maximum megtalálva: 74 lépéssel.
+Átlag lépésszám : 74.45
+Globális maximum megtalálva: 32 lépéssel.
+Átlag lépésszám : 73.97
+Globális maximum megtalálva: 17 lépéssel.
+Átlag lépésszám : 73.33
+Globális maximum megtalálva: 32 lépéssel.
+Átlag lépésszám : 72.87
+Globális maximum megtalálva: 29 lépéssel.
+Átlag lépésszám : 72.38
+Globális maximum megtalálva: 249 lépéssel.
+Átlag lépésszám : 74.30
+Globális maximum megtalálva: 89 lépéssel.
+Átlag lépésszám : 74.46
+Globális maximum megtalálva: 70 lépéssel.
+Átlag lépésszám : 74.41
+Globális maximum megtalálva: 124 lépéssel.
+Átlag lépésszám : 74.94
+Globális maximum megtalálva: 29 lépéssel.
+Átlag lépésszám : 74.46
+Globális maximum megtalálva: 198 lépéssel.
+Átlag lépésszám : 75.73
+Globális maximum megtalálva: 26 lépéssel.
+Átlag lépésszám : 75.22
+Globális maximum megtalálva: 0 lépéssel.
+Átlag lépésszám : 74.46
+Globális maximum megtalálva: 5 lépéssel.
+Átlag lépésszám : 73.77
+Globális maximum megtalálva: 71 lépéssel.
+Átlag lépésszám : 73.74
+Globális maximum megtalálva: 160 lépéssel.
+Átlag lépésszám : 74.59
+Globális maximum megtalálva: 71 lépéssel.
+Átlag lépésszám : 74.55
+Globális maximum megtalálva: 194 lépéssel.
+Átlag lépésszám : 75.70
+Globális maximum megtalálva: 184 lépéssel.
+Átlag lépésszám : 76.73
+Globális maximum megtalálva: 157 lépéssel.
+Átlag lépésszám : 77.49
+Globális maximum megtalálva: 30 lépéssel.
+Átlag lépésszám : 77.05
+Globális maximum megtalálva: 79 lépéssel.
+Átlag lépésszám : 77.06
+Globális maximum megtalálva: 32 lépéssel.
+Átlag lépésszám : 76.65
+Globális maximum megtalálva: 21 lépéssel.
+Átlag lépésszám : 76.15
+Globális maximum megtalálva: 78 lépéssel.
+Átlag lépésszám : 76.16
+Globális maximum megtalálva: 103 lépéssel.
+Átlag lépésszám : 76.40
+Globális maximum megtalálva: 47 lépéssel.
+Átlag lépésszám : 76.14
+Globális maximum megtalálva: 232 lépéssel.
+Átlag lépésszám : 77.51
+Globális maximum megtalálva: 110 lépéssel.
+Átlag lépésszám : 77.79
+Globális maximum megtalálva: 73 lépéssel.
+Átlag lépésszám : 77.75
+Globális maximum megtalálva: 73 lépéssel.
+Átlag lépésszám : 77.71
+Globális maximum megtalálva: 85 lépéssel.
+Átlag lépésszám : 77.77
+Globális maximum megtalálva: 98 lépéssel.
+Átlag lépésszám : 77.94
+Globális maximum megtalálva: 22 lépéssel.
+Átlag lépésszám : 77.47
+Globális maximum megtalálva: 15 lépéssel.
+Átlag lépésszám : 76.96
+Globális maximum megtalálva: 64 lépéssel.
+Átlag lépésszám : 76.85
+Globális maximum megtalálva: 4 lépéssel.
+Átlag lépésszám : 76.26
+Globális maximum megtalálva: 146 lépéssel.
+Átlag lépésszám : 76.82
+Globális maximum megtalálva: 3 lépéssel.
+Átlag lépésszám : 76.23
+Globális maximum megtalálva: 33 lépéssel.
+Átlag lépésszám : 75.89
+Globális maximum megtalálva: 53 lépéssel.
+Átlag lépésszám : 75.71
+Globális maximum megtalálva: 23 lépéssel.
+Átlag lépésszám : 75.30
+Globális maximum megtalálva: 3 lépéssel.
+Átlag lépésszám : 74.74
+Globális maximum megtalálva: 79 lépéssel.
+Átlag lépésszám : 74.77
+Globális maximum megtalálva: 78 lépéssel.
+Átlag lépésszám : 74.79
+Globális maximum megtalálva: 186 lépéssel.
+Átlag lépésszám : 75.64
+Globális maximum megtalálva: 122 lépéssel.
+Átlag lépésszám : 75.98
+Globális maximum megtalálva: 83 lépéssel.
+Átlag lépésszám : 76.04
+Globális maximum megtalálva: 170 lépéssel.
+Átlag lépésszám : 76.73
+Globális maximum megtalálva: 57 lépéssel.
+Átlag lépésszám : 76.59
+Globális maximum megtalálva: 115 lépéssel.
+Átlag lépésszám : 76.87
+Globális maximum megtalálva: 163 lépéssel.
+Átlag lépésszám : 77.49
+Globális maximum megtalálva: 26 lépéssel.
+Átlag lépésszám : 77.12
+Globális maximum megtalálva: 57 lépéssel.
+Átlag lépésszám : 76.98
+Globális maximum megtalálva: 186 lépéssel.
+Átlag lépésszám : 77.75
+Globális maximum megtalálva: 8 lépéssel.
+Átlag lépésszám : 77.26
+Globális maximum megtalálva: 28 lépéssel.
+Átlag lépésszám : 76.92
+Globális maximum megtalálva: 102 lépéssel.
+Átlag lépésszám : 77.09
+Globális maximum megtalálva: 75 lépéssel.
+Átlag lépésszám : 77.08
+Globális maximum megtalálva: 29 lépéssel.
+Átlag lépésszám : 76.75
+Globális maximum megtalálva: 94 lépéssel.
+Átlag lépésszám : 76.86
+Globális maximum megtalálva: 6 lépéssel.
+Átlag lépésszám : 76.39
+Globális maximum megtalálva: 227 lépéssel.
+Átlag lépésszám : 77.40
+Globális maximum megtalálva: 22 lépéssel.
+Átlag lépésszám : 77.03
+Globális maximum megtalálva: 57 lépéssel.
+Átlag lépésszám : 76.89
+Globális maximum megtalálva: 123 lépéssel.
+Átlag lépésszám : 77.20
+Globális maximum megtalálva: 17 lépéssel.
+Átlag lépésszám : 76.80
+Globális maximum megtalálva: 155 lépéssel.
+Átlag lépésszám : 77.31
+Globális maximum megtalálva: 6 lépéssel.
+Átlag lépésszám : 76.85
+Globális maximum megtalálva: 193 lépéssel.
+Átlag lépésszám : 77.60
+Globális maximum megtalálva: 88 lépéssel.
+Átlag lépésszám : 77.66
+Globális maximum megtalálva: 16 lépéssel.
+Átlag lépésszám : 77.27
+Globális maximum megtalálva: 139 lépéssel.
+Átlag lépésszám : 77.66
+Globális maximum megtalálva: 83 lépéssel.
+Átlag lépésszám : 77.69
+Globális maximum megtalálva: 155 lépéssel.
+Átlag lépésszám : 78.17
+Globális maximum megtalálva: 5 lépéssel.
+Átlag lépésszám : 77.72
+Globális maximum megtalálva: 88 lépéssel.
+Átlag lépésszám : 77.79
+Globális maximum megtalálva: 163 lépéssel.
+Átlag lépésszám : 78.30
+Globális maximum megtalálva: 83 lépéssel.
+Átlag lépésszám : 78.33
+Globális maximum megtalálva: 95 lépéssel.
+Átlag lépésszám : 78.43
+Globális maximum megtalálva: 195 lépéssel.
+Átlag lépésszám : 79.13
+Globális maximum megtalálva: 258 lépéssel.
+Átlag lépésszám : 80.20
+Globális maximum megtalálva: 163 lépéssel.
+Átlag lépésszám : 80.69
+Globális maximum megtalálva: 129 lépéssel.
+Átlag lépésszám : 80.97
+Globális maximum megtalálva: 5 lépéssel.
+Átlag lépésszám : 80.53
+Globális maximum megtalálva: 251 lépéssel.
+Átlag lépésszám : 81.52
+Globális maximum megtalálva: 43 lépéssel.
+Átlag lépésszám : 81.29
+Globális maximum megtalálva: 37 lépéssel.
+Átlag lépésszám : 81.04
+Globális maximum megtalálva: 143 lépéssel.
+Átlag lépésszám : 81.39
+Globális maximum megtalálva: 249 lépéssel.
+Átlag lépésszám : 82.35
+Globális maximum megtalálva: 78 lépéssel.
+Átlag lépésszám : 82.32
+Globális maximum megtalálva: 46 lépéssel.
+Átlag lépésszám : 82.12
+Globális maximum megtalálva: 41 lépéssel.
+Átlag lépésszám : 81.89
+Globális maximum megtalálva: 166 lépéssel.
+Átlag lépésszám : 82.36
+Globális maximum megtalálva: 34 lépéssel.
+Átlag lépésszám : 82.09
+Globális maximum megtalálva: 127 lépéssel.
+Átlag lépésszám : 82.34
+Globális maximum megtalálva: 55 lépéssel.
+Átlag lépésszám : 82.19
+Globális maximum megtalálva: 40 lépéssel.
+Átlag lépésszám : 81.96
+Globális maximum megtalálva: 46 lépéssel.
+Átlag lépésszám : 81.76
+Globális maximum megtalálva: 75 lépéssel.
+Átlag lépésszám : 81.73
+Globális maximum megtalálva: 151 lépéssel.
+Átlag lépésszám : 82.10
+Globális maximum megtalálva: 5 lépéssel.
+Átlag lépésszám : 81.69
+Globális maximum megtalálva: 18 lépéssel.
+Átlag lépésszám : 81.35
+Globális maximum megtalálva: 281 lépéssel.
+Átlag lépésszám : 82.40
+Globális maximum megtalálva: 144 lépéssel.
+Átlag lépésszám : 82.72
+Globális maximum megtalálva: 131 lépéssel.
+Átlag lépésszám : 82.97
+Globális maximum megtalálva: 106 lépéssel.
+Átlag lépésszám : 83.09
+Globális maximum megtalálva: 109 lépéssel.
+Átlag lépésszám : 83.23
+Globális maximum megtalálva: 14 lépéssel.
+Átlag lépésszám : 82.87
+Globális maximum megtalálva: 38 lépéssel.
+Átlag lépésszám : 82.64
+Globális maximum megtalálva: 125 lépéssel.
+Átlag lépésszám : 82.86
+Globális maximum megtalálva: 58 lépéssel.
+Átlag lépésszám : 82.73
+Globális maximum megtalálva: 112 lépéssel.
+Átlag lépésszám : 82.88
+Globális maximum megtalálva: 215 lépéssel.
+Átlag lépésszám : 83.54
